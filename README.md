@@ -62,7 +62,7 @@ Este app foi hospedado em (https://moveit-idwx8ysef-brunocarvalhofeitosa.vercel.
 na raiz de seu projeto e em seu terminal do editor digitar vercel login, ele te dará algumas opções de login, incluindo o próprio github, após a autemtição 
 ser feita basta voltar ao sue terminal e digitar somente vercel e seguir os passos recomendados para o deploy.
 
-Passos para o deploy na Vercel
+Passos para o deploy na Vercel:
 * Estar na raiz do seu projeto
 * Estar no seu editor de códigos e digitar vercel login
 * Após a autenticação, basta digitar vercel e seguir os passos recomendados
@@ -72,7 +72,7 @@ Passos para o deploy na Vercel
 ## Iniciando o projeto
 
 Primeiramente será necessário clonar este projeto em (https://github.com/BrunoCarvalhoFeitosa/moveit.git), após o download será necessário abrir este projeto no seu
-editor e no terminal digitar npm install ou yarn add, posteriormente é só executar o script yarn dev ou npm run dev. 
+editor e no terminal digitar npm install ou yarn install, posteriormente é só executar o script yarn dev ou npm run dev. 
 
 ### Pré-requisitos
 
@@ -92,7 +92,7 @@ editor e no terminal digitar npm install ou yarn add, posteriormente é só exec
    npm install ou yarn install
    ```
    
-3. Inicie o peojeto
+3. Inicie o projeto
    ```sh
    npm run dev ou yarn dev
    ```
