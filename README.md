@@ -76,7 +76,6 @@ editor e no terminal digitar npm install ou yarn add, posteriormente é só exec
 
 ### Pré-requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -84,13 +83,18 @@ This is an example of how to list things you need to use the software and how to
 
 ### Instalação
 
-1. Clone the repo
+1. Clone o repositório
    ```sh
    git clone https://github.com/BrunoCarvalhoFeitosa/moveit.git
    ```
-2. Install NPM packages
+2. Instale os pacotes do NPM
    ```sh
    npm install ou yarn install
+   ```
+   
+3. Inicie o peojeto
+   ```sh
+   npm run dev ou yarn dev
    ```
 
 
