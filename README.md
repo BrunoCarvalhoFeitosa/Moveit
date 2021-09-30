@@ -59,8 +59,8 @@ um longo dia de trabalho.
 ### Hospedagem
 
 Este app foi hospedado em (https://moveit-idwx8ysef-brunocarvalhofeitosa.vercel.app/). Para hospedar seu app na Vercel (https://vercel.com/) gratuitamente, basta estar 
-na raiz de seu projeto e em seu terminal do editor digitar vercel login, ele te dará algumas opções de login, incluindo o próprio github, após a autemtição 
-ser feita basta voltar ao sue terminal e digitar somente vercel e seguir os passos recomendados para o deploy.
+na raiz de seu projeto e em seu terminal do editor digitar vercel login, ele te dará algumas opções de login, incluindo o próprio github, após a autenticação 
+ser feita basta voltar ao seu terminal e digitar somente vercel e seguir os passos recomendados para o deploy.
 
 Passos para o deploy na Vercel:
 * Estar na raiz do seu projeto
