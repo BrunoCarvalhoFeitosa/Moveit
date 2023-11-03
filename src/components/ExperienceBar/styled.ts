@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components"
 
 export const ExperienceBarContainer = styled.header`
   margin: 15px auto 0;

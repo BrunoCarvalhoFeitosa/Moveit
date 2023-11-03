@@ -1,10 +1,9 @@
-import { useContext } from 'react';
-import { ChallengesContext } from '../../contexts/ChallengesContext';
-
-import * as S from './styled';
+import { useContext } from "react"
+import { ChallengesContext } from "../../contexts/ChallengesContext"
+import * as S from "./styled"
 
 export function Profile() {
-  const { level } = useContext(ChallengesContext);
+  const { level } = useContext(ChallengesContext)
   
   return (
     <S.ProfileContainer>
@@ -21,5 +20,5 @@ export function Profile() {
         </S.ProfileLevel>
       </S.ProfileWrapper>
     </S.ProfileContainer>
-  );
+  )
 }

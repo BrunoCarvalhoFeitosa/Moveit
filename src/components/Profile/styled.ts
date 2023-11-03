@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components"
 
 export const ProfileContainer = styled.div`
   display: flex;
@@ -21,7 +21,7 @@ export const ProfileName = styled.h4`
   color: var(--title);
 `;
 
-export const ProfileLevel = styled.p`
+export const ProfileLevel = styled.span`
   display: flex;
   align-items: baseline;
 `;
@@ -30,7 +30,7 @@ export const ProfileLevelImage = styled.div`
   margin-right: 0.5rem;
 `;
 
-export const ProfileLevelText = styled.p`
+export const ProfileLevelText = styled.span`
   margin-top: 0.5rem;
   font-size: 1rem;
 `;
