@@ -32,7 +32,7 @@
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
-    <li><a href="#license">Licenças</a></li>
+    <li><a href="#licença">Licença</a></li>
     <li><a href="#contact">Contato</a></li>
     <li><a href="#acknowledgements">Reconhecimentos</a></li>
   </ol>
@@ -105,7 +105,7 @@ Durante o seu trabalho você pode usar este app para notifica-lo quando alongar,
 
 
 <!-- LICENSE -->
-## License
+## Licença
 
 Distribuído sob a licença MIT.
 
